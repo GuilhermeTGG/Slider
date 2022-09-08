@@ -16,4 +16,4 @@ Aprimorar meus conhecimentos, desenvolvendo um slidshow simples para sites.
   
    <h2>Link</h2>
  <ul>
-   <li>https://guilhermetgg.github.io/Slider/.</li>
+   <li>https://guilhermetgg.github.io/slider/</li>
